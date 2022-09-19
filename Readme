@@ -1,9 +1,9 @@
 Desafio raizen:
 
-O deafio raizen para engenheiro de dados  pode ser encontrado em 
+O desafio raizen para engenheiro de dados  pode ser encontrado em 
 https://github.com/raizen-analytics/data-engineering-test/blob/master/TEST.md
 
-Consiste em fazer o ETL de uma tabela dinâmica e através do airflow no docker.
+Consiste em fazer o ETL de uma tabela dinâmica através do airflow no docker.
 
 Fiz de duas formas: 
 
